@@ -1,0 +1,6 @@
+requests
+bs4
+lxml
+Flask==1.1.4
+gunicorn
+MarkupSafe==2.0.1
